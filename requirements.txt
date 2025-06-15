@@ -3,3 +3,4 @@ ruff
 numpy
 matplotlib
 pandas
+yfinance
