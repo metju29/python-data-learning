@@ -7,3 +7,5 @@ yfinance
 lxml
 beautifulsoup4
 html5lib
+tables
+openpyxl
