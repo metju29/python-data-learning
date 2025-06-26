@@ -10,3 +10,5 @@ html5lib
 tables
 openpyxl
 sqlalchemy
+seaborn
+scipy
