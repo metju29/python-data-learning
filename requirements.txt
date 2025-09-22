@@ -18,3 +18,4 @@ patsy
 scikit-learn
 numba
 mglearn
+graphviz
